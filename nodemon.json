@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MLAB_USER": "ranksol",
+        "MLAB_PW":"ranksol123",
+        "JWT_KEY": "SECRET"
+    }
+}
